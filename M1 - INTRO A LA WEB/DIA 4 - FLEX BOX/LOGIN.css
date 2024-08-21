@@ -34,6 +34,9 @@
     height: 25px;
     text-align: center;
 }
+#text_login {
+    font-size: 500%;
+}
 input:hover {
     background-color: rgb(80, 85, 85);
 }
